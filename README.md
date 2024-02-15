@@ -304,7 +304,7 @@ Ctrl+b n
 
 To toggle to the previous node in a local devnet, run:
 ```
-Ctrl+b p
+Ctrl+b 
 ```
 
 #### Select a Node (choose-tree)
